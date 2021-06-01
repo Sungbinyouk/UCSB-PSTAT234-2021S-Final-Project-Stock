@@ -1,4 +1,5 @@
 # UCSB-PSTAT234-2021S-Stock
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock.git/HEAD)
 
 Welcome to the Stocks Team (I am open to other creative team names) for PSTAT234 2021 Spring.
 
