@@ -12,6 +12,5 @@ dependencies:
   - pip:
     - yfinance
     - datetime
-    - calendar
     - io
 
