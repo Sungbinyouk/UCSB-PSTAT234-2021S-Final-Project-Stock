@@ -1,14 +1,17 @@
-name: example-environment
+name: environment
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - yfinance
+  - jupyter
   - pandas
   - requests
-  - datetime
-  - calendar
-  - io
   - openpyxl
   - scipy
   - rpy2
+  - pip:
+    - yfinance
+    - datetime
+    - calendar
+    - io
+
