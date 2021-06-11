@@ -10,7 +10,7 @@ dependencies:
   - requests
   - matplotlib
   - scipy
-  - statmodels
+  - statsmodels
   - pip
   - pip:
     - datetime
