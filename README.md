@@ -1,11 +1,17 @@
 # UCSB-PSTAT234-2021S-Stock
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock.git/HEAD)
 
-Welcome to the Stocks Team (I am open to other creative team names) for PSTAT234 2021 Spring.
 
-The main goal of this project is to examine the Monday Effect in stocks.
+## Is Monday Effect an Urban Myth?
 
-The following is a link to your Goolge Doc:
-https://docs.google.com/document/d/1yjs0RGpxqZfMxHJ0atpfzXijN5vmbnlkL-wJPRC33o4/edit?usp=sharing
+**Authors**: Blythe King, Dinggyue Lie, Lucy (Yu) Xue\*, Sungbin Youk\
+**Date**: June 6th, 2021\
+**Description**: As a final project for PSTAT 234 in University of California, Santa Barbara, the authors examined the presence of Monday effect. The authors equally contributed to the project. The names of the authors are in an alphabetical order. The corresponding author is indicated with *.
 
-The presentation slides are in https://docs.google.com/presentation/d/13a60zY_kt4CXY6qt1w9tsIUiAZAevqSXxD2SsSWeemw/edit?usp=sharing
+To get an overview of our project, Check out our presentation video and powerpoint slides:
+- [Presentation Video](https://drive.google.com/file/d/1N5Ee-5iHanHhJT_nv3pr1XbV1x1qiyKh/view?usp=sharing)
+- [Powerpoint Slides](https://drive.google.com/file/d/1KOr-n1BdV2TQJetvgXgot6A5Pwjyeldl/view?usp=sharing)
+
+To get the details for our project, either download our notebook or play around using Binder:
+- [Jupyter Notebook](https://drive.google.com/file/d/1N5Ee-5iHanHhJT_nv3pr1XbV1x1qiyKh/view?usp=sharing)
+- Binder
