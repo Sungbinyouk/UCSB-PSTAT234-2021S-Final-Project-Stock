@@ -1,5 +1,5 @@
 # UCSB-PSTAT234-2021S-Stock
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock/HEAD)
 
 
 ## Is Monday Effect an Urban Myth?
@@ -14,4 +14,4 @@ To get an overview of our project, Check out our presentation video and powerpoi
 
 To get the details for our project, either download our notebook or play around using Binder:
 - [Jupyter Notebook](https://drive.google.com/file/d/1N5Ee-5iHanHhJT_nv3pr1XbV1x1qiyKh/view?usp=sharing)
-- Binder
+- [Binder](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock/HEAD)
