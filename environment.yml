@@ -1,20 +1,15 @@
-name: stockproject
+name: environment
 channels:
   - conda-forge
 dependencies:
-  - python
-  - jupyter
-  - notebook
   - numpy
+  - jupyter
   - pandas
   - requests
-  - matplotlib
+  - openpyxl
   - scipy
-  - statsmodels
-  - pip
+  - rpy2
   - pip:
-    - datetime
     - yfinance
-    - rpy2
+    - datetime
     - calendar
-    - io
