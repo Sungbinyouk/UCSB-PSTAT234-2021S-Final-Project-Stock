@@ -8,13 +8,13 @@ dependencies:
   - numpy
   - pandas
   - requests
-  - calendar
-  - io
   - matplotlib
   - scipy
-  - statemodels
+  - statmodels
   - pip
   - pip:
     - datetime
     - yfinance
     - rpy2
+    - calendar
+    - io
