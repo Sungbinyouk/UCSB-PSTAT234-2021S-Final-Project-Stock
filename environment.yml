@@ -9,6 +9,8 @@ dependencies:
   - openpyxl
   - scipy
   - rpy2
+  - matplotlib
+  - statsmodels
   - pip:
     - yfinance
     - datetime
