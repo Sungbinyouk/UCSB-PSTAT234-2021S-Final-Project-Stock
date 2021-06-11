@@ -8,7 +8,7 @@
 **Date**: June 6th, 2021\
 **Description**: As a final project for PSTAT 234 in University of California, Santa Barbara, the authors examined the presence of Monday effect. The authors equally contributed to the project. The names of the authors are in an alphabetical order. The corresponding author is indicated with *.
 
-To get an overview of our project, Check out our presentation video and powerpoint slides:
+To get an overview of our project, check out our presentation video and powerpoint slides:
 - [Presentation Video](https://drive.google.com/file/d/1N5Ee-5iHanHhJT_nv3pr1XbV1x1qiyKh/view?usp=sharing)
 - [Powerpoint Slides](https://drive.google.com/file/d/1KOr-n1BdV2TQJetvgXgot6A5Pwjyeldl/view?usp=sharing)
 
