@@ -13,5 +13,5 @@ To get an overview of our project, check out our presentation video and powerpoi
 - [Powerpoint Slides](https://drive.google.com/file/d/1KOr-n1BdV2TQJetvgXgot6A5Pwjyeldl/view?usp=sharing)
 
 To get the details for our project, either download our notebook or play around using Binder:
-- [Jupyter Notebook: Examining Monday Effect](https://github.com/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock/blob/main/Examining%20Monday%20Effect.ipynb)
+- [Jupyter Notebook: Examining Monday Effect.ipynb](https://github.com/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock/blob/main/Examining%20Monday%20Effect.ipynb)
 - [Binder](https://mybinder.org/v2/gh/Sungbinyouk/UCSB-PSTAT234-2021S-Final-Project-Stock/HEAD)
